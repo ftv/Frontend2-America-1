@@ -1,0 +1,74 @@
+Starting logging SublimeCodeIntel v2.0.6 rev GIT-unknown (1379800848) on Tue Oct 29 20:40:44 2013
+=================================================================================================
++ Debug: Invalid language: Plain text. Available: JavaScript, Mason, XBL, XUL, RHTML, SCSS, Python, HTML, Ruby, Python3, XML, Sass, XSLT, Django, HTML5, Perl, CSS, Twig, Less, Smarty, Node.js, Tcl, TemplateToolkit, PHP
++ Info: processing `HTML': please wait...
+Updating indexes for 'HTML'... The first time this can take a while.
+scan_purelang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+scan_multilang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+****************************************
+Finished scanning, updating all scope names
+Updating all class constructor names
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 52ms
+Autocomplete called (HTML) [cplns]
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 16ms
+Autocomplete called (HTML) [cplns]
+Doing CodeIntel for 'HTML' (hold on)...
+Done 'HTML' CodeIntel! Full CodeIntel took 14ms
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 16ms
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 18ms
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 16ms
++ Info: processing `HTML': please wait...
+Updating indexes for 'HTML'... The first time this can take a while.
+scan_purelang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+scan_multilang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+****************************************
+Finished scanning, updating all scope names
+Updating all class constructor names
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 23ms
++ Info: processing `HTML': please wait...
+Updating indexes for 'HTML'... The first time this can take a while.
+scan_purelang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+scan_multilang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+****************************************
+Finished scanning, updating all scope names
+Updating all class constructor names
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 21ms
+Autocomplete called (HTML) [cplns]
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 17ms
+Autocomplete called (HTML) [cplns]
++ Info: processing `HTML': please wait...
+Updating indexes for 'HTML'... The first time this can take a while.
+scan_purelang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+scan_multilang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+****************************************
+Finished scanning, updating all scope names
+Updating all class constructor names
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
+Done 'HTML' CodeIntel! Full CodeIntel took 86ms
+Autocomplete called (HTML) [cplns]
++ Info: processing `HTML': please wait...
+Updating indexes for 'HTML'... The first time this can take a while.
+scan_purelang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+scan_multilang: path: u'C:\\Users\\franciscotrejos\\Documents\\GitHub\\Frontend2-America-1\\index.html' lang: HTML
+****************************************
+Finished scanning, updating all scope names
+Updating all class constructor names
+Doing CodeIntel for 'HTML' (hold on)...
+done eval: success
